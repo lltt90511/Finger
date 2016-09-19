@@ -1,0 +1,41 @@
+﻿生成启动时间为 2016/9/13 17:31:24。
+     1>项目“C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\underSea.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1186,5): warning MSB8012: TargetPath(C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\Debug.win32\underSea.exe) does not match the Linker's OutputFile property value (C:\Users\Administrator\Desktop\underSea\simulator\win32\underSea.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>PreLinkEvent:
+         if not exist "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\Debug.win32\" mkdir "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\Debug.win32\"
+         xcopy /Y /Q "d:\Cocos310\cocos2d-x\cocos2d-x-3.10\prebuilt\win32\*.*" "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\Debug.win32\"
+         
+         :VCEnd
+         复制了 60 个文件
+       Link:
+         underSea.vcxproj -> C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\Debug.win32\underSea.exe
+       CustomBuildStep:
+         if not exist "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\Debug.win32\../../../../simulator/win32" mkdir "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\Debug.win32\../../../../simulator/win32"
+         xcopy "d:\Cocos310\cocos2d-x\cocos2d-x-3.10\cocos\scripting\js-bindings\script" "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\Debug.win32\../../../../simulator/win32\script" /D /E /I /F /Y
+         xcopy "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\..\..\..\src" "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\Debug.win32\../../../../simulator/win32\src" /D /E /I /F /Y
+         xcopy "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\..\..\..\res" "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\Debug.win32\../../../../simulator/win32\res" /D /E /I /F /Y
+         copy "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\..\..\..\main.js" "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\Debug.win32\../../../../simulator/win32" /Y
+         copy "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\..\..\..\project.json" "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\Debug.win32\../../../../simulator/win32" /Y
+         xcopy /Y /Q "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\Debug.win32\*.dll" "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\Debug.win32\../../../../simulator/win32"
+         xcopy /Y /Q "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\..\Classes\ide-support\lang" "C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\Debug.win32\../../../../simulator/win32"
+         :VCEnd
+         复制了 0 个文件
+         C:\Users\Administrator\Desktop\underSea\src\network.js -> C:\Users\Administrator\Desktop\underSea\simulator\win32\src\network.js
+         复制了 1 个文件
+         C:\Users\Administrator\Desktop\underSea\res\alert.json -> C:\Users\Administrator\Desktop\underSea\simulator\win32\res\alert.json
+         C:\Users\Administrator\Desktop\underSea\res\chat.json -> C:\Users\Administrator\Desktop\underSea\simulator\win32\res\chat.json
+         C:\Users\Administrator\Desktop\underSea\res\common_top.json -> C:\Users\Administrator\Desktop\underSea\simulator\win32\res\common_top.json
+         C:\Users\Administrator\Desktop\underSea\res\exchange.json -> C:\Users\Administrator\Desktop\underSea\simulator\win32\res\exchange.json
+         C:\Users\Administrator\Desktop\underSea\res\fish_machine.json -> C:\Users\Administrator\Desktop\underSea\simulator\win32\res\fish_machine.json
+         C:\Users\Administrator\Desktop\underSea\res\start.json -> C:\Users\Administrator\Desktop\underSea\simulator\win32\res\start.json
+         C:\Users\Administrator\Desktop\underSea\res\userAlert.json -> C:\Users\Administrator\Desktop\underSea\simulator\win32\res\userAlert.json
+         复制了 7 个文件
+         已复制         1 个文件。
+         已复制         1 个文件。
+         复制了 16 个文件
+         复制了 1 个文件
+     1>已完成生成项目“C:\Users\Administrator\Desktop\underSea\frameworks\runtime-src\proj.win32\underSea.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:12.32

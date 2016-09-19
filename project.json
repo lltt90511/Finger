@@ -1,0 +1,27 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "noCache" : false,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d", "cocostudio", "extensions"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/network.js",
+        "src/start.js",
+        "src/public.js",
+        "src/alert.js",
+        "src/commonTop.js",
+        "src/md5.js",
+        "src/moraGame.js",
+        "src/betAlert.js",
+        "src/inviterAlert.js",
+        "src/waitInviterAlert.js"
+    ]
+}

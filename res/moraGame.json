@@ -1,0 +1,1910 @@
+{
+  "ID": "3aabaa18-27b9-40e6-a271-733e7672c413",
+  "Version": "3.10.0.0",
+  "Name": "moraGame",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {},
+            "EndColor": {
+              "R": 150,
+              "G": 200
+            },
+            "ColorVector": {
+              "ScaleX": 0.0,
+              "ScaleY": -1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 12527,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/mora/bg.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 1081,
+                "Scale9Height": 1820,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0009,
+                  "Y": 0.9479
+                },
+                "RightMargin": -1.0,
+                "TopMargin": 100.0,
+                "Tag": 12528,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/touxiang_1.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 178,
+                    "Scale9Height": 178,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 170.0,
+                      "Y": 1580.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1573,
+                      "Y": 0.8681
+                    },
+                    "PreSize": {
+                      "X": 0.1647,
+                      "Y": 0.0978
+                    },
+                    "LeftMargin": 81.0,
+                    "RightMargin": 822.0,
+                    "TopMargin": 151.0,
+                    "BottomMargin": 1491.0,
+                    "Tag": 12529,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/main2/default.jpg",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 200,
+                        "Scale9Height": 200,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 89.0,
+                          "Y": 89.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.9326,
+                          "Y": 0.9326
+                        },
+                        "LeftMargin": 6.0,
+                        "RightMargin": 6.0,
+                        "TopMargin": 6.0,
+                        "BottomMargin": 6.0,
+                        "Tag": 12530,
+                        "ActionTag": 28990484,
+                        "Size": {
+                          "X": 166.0,
+                          "Y": 166.0
+                        },
+                        "Name": "icon",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 66919666,
+                    "Size": {
+                      "X": 178.0,
+                      "Y": 178.0
+                    },
+                    "Name": "head",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {},
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/yaoqing.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/yaoqing.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 201,
+                    "Scale9Height": 73,
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 900.0,
+                      "Y": 1630.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8326,
+                      "Y": 0.8956
+                    },
+                    "PreSize": {
+                      "X": 0.1859,
+                      "Y": 0.0401
+                    },
+                    "LeftMargin": 799.5,
+                    "RightMargin": 80.5,
+                    "TopMargin": 153.5,
+                    "BottomMargin": 1593.5,
+                    "Tag": 12531,
+                    "ActionTag": 40646811,
+                    "Size": {
+                      "X": 201.0,
+                      "Y": 73.0
+                    },
+                    "Name": "yaoqing",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {},
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/yazhuanniu.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/yazhuanniu.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 201,
+                    "Scale9Height": 73,
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 900.0,
+                      "Y": 1530.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8326,
+                      "Y": 0.8407
+                    },
+                    "PreSize": {
+                      "X": 0.1859,
+                      "Y": 0.0401
+                    },
+                    "LeftMargin": 799.5,
+                    "RightMargin": 80.5,
+                    "TopMargin": 253.5,
+                    "BottomMargin": 1493.5,
+                    "Tag": 12549,
+                    "ActionTag": 20627329,
+                    "Size": {
+                      "X": 201.0,
+                      "Y": 73.0
+                    },
+                    "Name": "yazhu",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/di.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 265,
+                    "Scale9Height": 265,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 540.0,
+                      "Y": 1220.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4995,
+                      "Y": 0.6703
+                    },
+                    "PreSize": {
+                      "X": 0.2451,
+                      "Y": 0.1456
+                    },
+                    "LeftMargin": 407.5,
+                    "RightMargin": 408.5,
+                    "TopMargin": 467.5,
+                    "BottomMargin": 1087.5,
+                    "Tag": 12532,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/di_2.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 237,
+                        "Scale9Height": 237,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 132.0,
+                          "Y": 132.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4981,
+                          "Y": 0.4981
+                        },
+                        "PreSize": {
+                          "X": 0.8943,
+                          "Y": 0.8943
+                        },
+                        "LeftMargin": 13.5,
+                        "RightMargin": 14.5,
+                        "TopMargin": 14.5,
+                        "BottomMargin": 13.5,
+                        "Tag": 12533,
+                        "ActionTag": 4973669,
+                        "ZOrder": 1,
+                        "Size": {
+                          "X": 237.0,
+                          "Y": 237.0
+                        },
+                        "Name": "image",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 12909698,
+                    "ZOrder": 1,
+                    "Size": {
+                      "X": 265.0,
+                      "Y": 265.0
+                    },
+                    "Name": "other",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/shibai.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 1045,
+                    "Scale9Height": 410,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 540.0,
+                      "Y": 900.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4995,
+                      "Y": 0.4945
+                    },
+                    "PreSize": {
+                      "X": 0.9667,
+                      "Y": 0.2253
+                    },
+                    "LeftMargin": 17.5,
+                    "RightMargin": 18.5,
+                    "TopMargin": 715.0,
+                    "BottomMargin": 695.0,
+                    "Tag": 12534,
+                    "ActionTag": 26000792,
+                    "Size": {
+                      "X": 1045.0,
+                      "Y": 410.0
+                    },
+                    "Name": "result",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/di.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 265,
+                    "Scale9Height": 265,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 540.0,
+                      "Y": 610.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4995,
+                      "Y": 0.3352
+                    },
+                    "PreSize": {
+                      "X": 0.2451,
+                      "Y": 0.1456
+                    },
+                    "LeftMargin": 407.5,
+                    "RightMargin": 408.5,
+                    "TopMargin": 1077.5,
+                    "BottomMargin": 477.5,
+                    "Tag": 12536,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {},
+                        "DisabledFileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/jiandao_1.png",
+                          "Plist": ""
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/jiandao_1.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/jiandao_2.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 237,
+                        "Scale9Height": 236,
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 132.0,
+                          "Y": 132.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4981,
+                          "Y": 0.4981
+                        },
+                        "PreSize": {
+                          "X": 0.8943,
+                          "Y": 0.8906
+                        },
+                        "LeftMargin": 13.5,
+                        "RightMargin": 14.5,
+                        "TopMargin": 15.0,
+                        "BottomMargin": 14.0,
+                        "Tag": 12537,
+                        "ActionTag": 42774560,
+                        "Size": {
+                          "X": 237.0,
+                          "Y": 236.0
+                        },
+                        "Name": "btn",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 294748,
+                    "Size": {
+                      "X": 265.0,
+                      "Y": 265.0
+                    },
+                    "Name": "mine_jiandao",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/di.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 265,
+                    "Scale9Height": 265,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 210.0,
+                      "Y": 610.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1943,
+                      "Y": 0.3352
+                    },
+                    "PreSize": {
+                      "X": 0.2451,
+                      "Y": 0.1456
+                    },
+                    "LeftMargin": 77.5,
+                    "RightMargin": 738.5,
+                    "TopMargin": 1077.5,
+                    "BottomMargin": 477.5,
+                    "Tag": 12540,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {},
+                        "DisabledFileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/shitou_1.png",
+                          "Plist": ""
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/shitou_1.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/shitou_2.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 237,
+                        "Scale9Height": 236,
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 132.0,
+                          "Y": 132.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4981,
+                          "Y": 0.4981
+                        },
+                        "PreSize": {
+                          "X": 0.8943,
+                          "Y": 0.8906
+                        },
+                        "LeftMargin": 13.5,
+                        "RightMargin": 14.5,
+                        "TopMargin": 15.0,
+                        "BottomMargin": 14.0,
+                        "Tag": 12541,
+                        "ActionTag": 5157996,
+                        "Size": {
+                          "X": 237.0,
+                          "Y": 236.0
+                        },
+                        "Name": "btn",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 52768893,
+                    "Size": {
+                      "X": 265.0,
+                      "Y": 265.0
+                    },
+                    "Name": "mine_shitou",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/di.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 265,
+                    "Scale9Height": 265,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 870.0,
+                      "Y": 610.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8048,
+                      "Y": 0.3352
+                    },
+                    "PreSize": {
+                      "X": 0.2451,
+                      "Y": 0.1456
+                    },
+                    "LeftMargin": 737.5,
+                    "RightMargin": 78.5,
+                    "TopMargin": 1077.5,
+                    "BottomMargin": 477.5,
+                    "Tag": 12542,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {},
+                        "DisabledFileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/bu_1.png",
+                          "Plist": ""
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/bu_1.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/bu_2.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 237,
+                        "Scale9Height": 236,
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 132.0,
+                          "Y": 132.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4981,
+                          "Y": 0.4981
+                        },
+                        "PreSize": {
+                          "X": 0.8943,
+                          "Y": 0.8906
+                        },
+                        "LeftMargin": 13.5,
+                        "RightMargin": 14.5,
+                        "TopMargin": 15.0,
+                        "BottomMargin": 14.0,
+                        "Tag": 12543,
+                        "ActionTag": 21520589,
+                        "Size": {
+                          "X": 237.0,
+                          "Y": 236.0
+                        },
+                        "Name": "btn",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 30177209,
+                    "Size": {
+                      "X": 265.0,
+                      "Y": 265.0
+                    },
+                    "Name": "mine_bu",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 100,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {},
+                    "EndColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "ColorVector": {
+                      "ScaleX": 0.0,
+                      "ScaleY": -1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 340.0,
+                      "Y": 1370.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3145,
+                      "Y": 0.7527
+                    },
+                    "PreSize": {
+                      "X": 0.37,
+                      "Y": 0.0549
+                    },
+                    "LeftMargin": 340.0,
+                    "RightMargin": 341.0,
+                    "TopMargin": 350.0,
+                    "BottomMargin": 1370.0,
+                    "Tag": 12553,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/yazhu_1.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 119,
+                        "Scale9Height": 57,
+                        "AnchorPoint": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 180.8466,
+                          "Y": 50.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4521,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.2975,
+                          "Y": 0.57
+                        },
+                        "LeftMargin": 61.8466,
+                        "RightMargin": 219.1534,
+                        "TopMargin": 21.5,
+                        "BottomMargin": 21.5,
+                        "Tag": 12550,
+                        "ActionTag": 18949793,
+                        "Size": {
+                          "X": 119.0,
+                          "Y": 57.0
+                        },
+                        "Name": "yazhu",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "CharWidth": 37,
+                        "CharHeight": 43,
+                        "LabelText": "0",
+                        "StartChar": ".",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "num01.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 200.0,
+                          "Y": 50.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0925,
+                          "Y": 0.43
+                        },
+                        "LeftMargin": 181.5,
+                        "RightMargin": 181.5,
+                        "TopMargin": 28.5,
+                        "BottomMargin": 28.5,
+                        "Tag": 12552,
+                        "ActionTag": 54260352,
+                        "Size": {
+                          "X": 37.0,
+                          "Y": 43.0
+                        },
+                        "Name": "yazhu_num",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/jinbi.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 116,
+                        "Scale9Height": 57,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 224.3505,
+                          "Y": 50.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5609,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.29,
+                          "Y": 0.57
+                        },
+                        "LeftMargin": 224.3505,
+                        "RightMargin": 59.6495,
+                        "TopMargin": 21.5,
+                        "BottomMargin": 21.5,
+                        "Tag": 12555,
+                        "ActionTag": 16379395,
+                        "Size": {
+                          "X": 116.0,
+                          "Y": 57.0
+                        },
+                        "Name": "jinbi",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 21698483,
+                    "Size": {
+                      "X": 400.0,
+                      "Y": 100.0
+                    },
+                    "Name": "yazhu_layout",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/di.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 265,
+                    "Scale9Height": 265,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 540.0,
+                      "Y": 930.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4995,
+                      "Y": 0.511
+                    },
+                    "PreSize": {
+                      "X": 0.2451,
+                      "Y": 0.1456
+                    },
+                    "LeftMargin": 407.5,
+                    "RightMargin": 408.5,
+                    "TopMargin": 757.5,
+                    "BottomMargin": 797.5,
+                    "Tag": 12556,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/di_1.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 237,
+                        "Scale9Height": 237,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 132.0,
+                          "Y": 132.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4981,
+                          "Y": 0.4981
+                        },
+                        "PreSize": {
+                          "X": 0.8943,
+                          "Y": 0.8943
+                        },
+                        "LeftMargin": 13.5,
+                        "RightMargin": 14.5,
+                        "TopMargin": 14.5,
+                        "BottomMargin": 13.5,
+                        "Tag": 12557,
+                        "Children": [
+                          {
+                            "CharWidth": 117,
+                            "CharHeight": 124,
+                            "LabelText": "10",
+                            "StartChar": "0",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "qietu/mora/num_1.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 118.0,
+                              "Y": 118.0
+                            },
+                            "Scale": {
+                              "ScaleX": 0.7,
+                              "ScaleY": 0.7
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.4979,
+                              "Y": 0.4979
+                            },
+                            "PreSize": {
+                              "X": 0.9873,
+                              "Y": 0.5232
+                            },
+                            "LeftMargin": 1.0,
+                            "RightMargin": 2.0,
+                            "TopMargin": 57.0,
+                            "BottomMargin": 56.0,
+                            "Tag": 12558,
+                            "ActionTag": 38312449,
+                            "Size": {
+                              "X": 234.0,
+                              "Y": 124.0
+                            },
+                            "Name": "num",
+                            "ctype": "TextAtlasObjectData"
+                          }
+                        ],
+                        "ActionTag": 7457244,
+                        "Size": {
+                          "X": 237.0,
+                          "Y": 237.0
+                        },
+                        "Name": "image",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 11991849,
+                    "Size": {
+                      "X": 265.0,
+                      "Y": 265.0
+                    },
+                    "Name": "countDown",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 50,
+                    "LabelText": "名字名字",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 270.0,
+                      "Y": 1625.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2498,
+                      "Y": 0.8929
+                    },
+                    "PreSize": {
+                      "X": 0.185,
+                      "Y": 0.0275
+                    },
+                    "LeftMargin": 270.0,
+                    "RightMargin": 611.0,
+                    "TopMargin": 170.0,
+                    "BottomMargin": 1600.0,
+                    "Tag": 12606,
+                    "ActionTag": 49128240,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 50.0
+                    },
+                    "Name": "name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "CharWidth": 37,
+                    "CharHeight": 43,
+                    "LabelText": "2147483647",
+                    "StartChar": ".",
+                    "LabelAtlasFileImage_CNB": {
+                      "Type": "Normal",
+                      "Path": "num01.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 379.9999,
+                      "Y": 1534.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3515,
+                      "Y": 0.8429
+                    },
+                    "PreSize": {
+                      "X": 0.3423,
+                      "Y": 0.0236
+                    },
+                    "LeftMargin": 379.9999,
+                    "RightMargin": 331.0001,
+                    "TopMargin": 264.4999,
+                    "BottomMargin": 1512.5001,
+                    "Tag": 12612,
+                    "ActionTag": 19266909,
+                    "Size": {
+                      "X": 370.0,
+                      "Y": 43.0
+                    },
+                    "Name": "gold",
+                    "ctype": "TextAtlasObjectData"
+                  },
+                  {
+                    "FontSize": 45,
+                    "LabelText": "银豆:",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 275.0,
+                      "Y": 1535.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 115
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2544,
+                      "Y": 0.8434
+                    },
+                    "PreSize": {
+                      "X": 0.1045,
+                      "Y": 0.0247
+                    },
+                    "LeftMargin": 275.0,
+                    "RightMargin": 693.0,
+                    "TopMargin": 262.5,
+                    "BottomMargin": 1512.5,
+                    "Tag": 29736,
+                    "ActionTag": 36565318,
+                    "Size": {
+                      "X": 113.0,
+                      "Y": 45.0
+                    },
+                    "Name": "gold_ico",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 100,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {},
+                    "EndColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "ColorVector": {
+                      "ScaleX": 0.0,
+                      "ScaleY": -1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 440.0,
+                      "Y": 200.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.407,
+                      "Y": 0.1099
+                    },
+                    "PreSize": {
+                      "X": 0.185,
+                      "Y": 0.0549
+                    },
+                    "LeftMargin": 440.0,
+                    "RightMargin": 441.0,
+                    "TopMargin": 1520.0,
+                    "BottomMargin": 200.0,
+                    "Tag": 13402,
+                    "Children": [
+                      {
+                        "FontSize": 60,
+                        "LabelText": "您赢得了",
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.9999,
+                          "Y": 49.9999
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 241,
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.425,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 1.2,
+                          "Y": 0.6
+                        },
+                        "LeftMargin": -155.0001,
+                        "RightMargin": 115.0001,
+                        "TopMargin": 20.0001,
+                        "BottomMargin": 19.9999,
+                        "Tag": 13401,
+                        "ActionTag": 57159716,
+                        "Size": {
+                          "X": 240.0,
+                          "Y": 60.0
+                        },
+                        "Name": "label",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "CharWidth": 37,
+                        "CharHeight": 43,
+                        "LabelText": "0",
+                        "StartChar": ".",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "num01.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 100.0,
+                          "Y": 50.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.185,
+                          "Y": 0.43
+                        },
+                        "LeftMargin": 81.5,
+                        "RightMargin": 81.5,
+                        "TopMargin": 28.5,
+                        "BottomMargin": 28.5,
+                        "Tag": 13403,
+                        "ActionTag": 10108335,
+                        "Size": {
+                          "X": 37.0,
+                          "Y": 43.0
+                        },
+                        "Name": "num",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/jinbi.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 116,
+                        "Scale9Height": 57,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 127.0,
+                          "Y": 50.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.635,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.58,
+                          "Y": 0.57
+                        },
+                        "LeftMargin": 127.0,
+                        "RightMargin": -43.0,
+                        "TopMargin": 21.5,
+                        "BottomMargin": 21.5,
+                        "Tag": 13404,
+                        "ActionTag": 26009860,
+                        "Size": {
+                          "X": 116.0,
+                          "Y": 57.0
+                        },
+                        "Name": "image",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 11116060,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 100.0
+                    },
+                    "Name": "jieguo_layout",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 150,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "FirstColor": {},
+                    "EndColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "ColorVector": {
+                      "ScaleX": 0.0,
+                      "ScaleY": -1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 13406,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/alert.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 1014,
+                        "Scale9Height": 644,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 540.5,
+                          "Y": 910.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.938,
+                          "Y": 0.3538
+                        },
+                        "LeftMargin": 33.5,
+                        "RightMargin": 33.5,
+                        "TopMargin": 588.0,
+                        "BottomMargin": 588.0,
+                        "Tag": 12584,
+                        "Children": [
+                          {
+                            "FontSize": 40,
+                            "LabelText": "请输入邀请人的手机号码：",
+                            "OutlineColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 347.0,
+                              "Y": 422.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.3422,
+                              "Y": 0.6553
+                            },
+                            "PreSize": {
+                              "X": 0.4734,
+                              "Y": 0.0621
+                            },
+                            "LeftMargin": 107.0,
+                            "RightMargin": 427.0,
+                            "TopMargin": 202.0,
+                            "BottomMargin": 402.0,
+                            "Tag": 12585,
+                            "ActionTag": 42925272,
+                            "Size": {
+                              "X": 480.0,
+                              "Y": 40.0
+                            },
+                            "Name": "label",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "qietu/mora/shuru.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 310,
+                            "Scale9Height": 69,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 614.0,
+                              "Y": 387.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.6055,
+                              "Y": 0.6009
+                            },
+                            "PreSize": {
+                              "X": 0.3057,
+                              "Y": 0.1071
+                            },
+                            "LeftMargin": 614.0,
+                            "RightMargin": 90.0,
+                            "TopMargin": 188.0,
+                            "BottomMargin": 387.0,
+                            "Tag": 12586,
+                            "ActionTag": 30770209,
+                            "Size": {
+                              "X": 310.0,
+                              "Y": 69.0
+                            },
+                            "Name": "input",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "ButtonText": "",
+                            "TextColor": {},
+                            "PressedFileData": {
+                              "Type": "Normal",
+                              "Path": "qietu/mora/queding.png",
+                              "Plist": ""
+                            },
+                            "NormalFileData": {
+                              "Type": "Normal",
+                              "Path": "qietu/mora/queding.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 255,
+                            "Scale9Height": 82,
+                            "OutlineColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "TouchEnable": true,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 507.0,
+                              "Y": 242.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.3758
+                            },
+                            "PreSize": {
+                              "X": 0.2515,
+                              "Y": 0.1273
+                            },
+                            "LeftMargin": 379.5,
+                            "RightMargin": 379.5,
+                            "TopMargin": 361.0,
+                            "BottomMargin": 201.0,
+                            "Tag": 12587,
+                            "ActionTag": 64036738,
+                            "Size": {
+                              "X": 255.0,
+                              "Y": 82.0
+                            },
+                            "Name": "queding",
+                            "ctype": "ButtonObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "ButtonText": "",
+                            "TextColor": {},
+                            "PressedFileData": {
+                              "Type": "Normal",
+                              "Path": "qietu/tymb/guanbiBt02.png",
+                              "Plist": ""
+                            },
+                            "NormalFileData": {
+                              "Type": "Normal",
+                              "Path": "qietu/tymb/guanbiBt01.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 132,
+                            "Scale9Height": 132,
+                            "OutlineColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "TouchEnable": true,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 947.0,
+                              "Y": 587.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.9339,
+                              "Y": 0.9115
+                            },
+                            "PreSize": {
+                              "X": 0.1302,
+                              "Y": 0.205
+                            },
+                            "LeftMargin": 881.0,
+                            "RightMargin": 1.0,
+                            "TopMargin": -9.0,
+                            "BottomMargin": 521.0,
+                            "Tag": 12588,
+                            "ActionTag": 39418172,
+                            "Size": {
+                              "X": 132.0,
+                              "Y": 132.0
+                            },
+                            "Name": "back",
+                            "ctype": "ButtonObjectData"
+                          }
+                        ],
+                        "ActionTag": 50854321,
+                        "Size": {
+                          "X": 1014.0,
+                          "Y": 644.0
+                        },
+                        "Name": "alert",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/alert.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 1014,
+                        "Scale9Height": 644,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 539.9595,
+                          "Y": 910.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4995,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.938,
+                          "Y": 0.3538
+                        },
+                        "LeftMargin": 32.9595,
+                        "RightMargin": 34.0405,
+                        "TopMargin": 588.0,
+                        "BottomMargin": 588.0,
+                        "Tag": 13407,
+                        "Children": [
+                          {
+                            "FontSize": 50,
+                            "LabelText": "等待对方确认修改押注金额...",
+                            "OutlineColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 507.0,
+                              "Y": 362.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5621
+                            },
+                            "PreSize": {
+                              "X": 0.6657,
+                              "Y": 0.0776
+                            },
+                            "LeftMargin": 169.5,
+                            "RightMargin": 169.5,
+                            "TopMargin": 257.0,
+                            "BottomMargin": 337.0,
+                            "Tag": 13408,
+                            "ActionTag": 28002321,
+                            "Size": {
+                              "X": 675.0,
+                              "Y": 50.0
+                            },
+                            "Name": "label",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 33771775,
+                        "Size": {
+                          "X": 1014.0,
+                          "Y": 644.0
+                        },
+                        "Name": "waitChange",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 13016858,
+                    "ZOrder": 10,
+                    "Size": {
+                      "X": 1081.0,
+                      "Y": 1820.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "alert_layout",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 56994852,
+                "Size": {
+                  "X": 1081.0,
+                  "Y": 1820.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1,
+            "Size": {
+              "X": 1080.0,
+              "Y": 1920.0
+            },
+            "Name": "Panel_70",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1080.0,
+          "Y": 1920.0
+        },
+        "Name": "UiEntity43938279",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "num01.png",
+        "qietu/main2/default.jpg",
+        "qietu/mora/alert.png",
+        "qietu/mora/bg.png",
+        "qietu/mora/bu_1.png",
+        "qietu/mora/bu_2.png",
+        "qietu/mora/di.png",
+        "qietu/mora/di_1.png",
+        "qietu/mora/di_2.png",
+        "qietu/mora/jiandao_1.png",
+        "qietu/mora/jiandao_2.png",
+        "qietu/mora/jinbi.png",
+        "qietu/mora/num_1.png",
+        "qietu/mora/queding.png",
+        "qietu/mora/shibai.png",
+        "qietu/mora/shitou_1.png",
+        "qietu/mora/shitou_2.png",
+        "qietu/mora/shuru.png",
+        "qietu/mora/touxiang_1.png",
+        "qietu/mora/yaoqing.png",
+        "qietu/mora/yazhu_1.png",
+        "qietu/mora/yazhuanniu.png",
+        "qietu/tymb/guanbiBt01.png",
+        "qietu/tymb/guanbiBt02.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

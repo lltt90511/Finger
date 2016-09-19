@@ -1,0 +1,375 @@
+{
+  "ID": "9aa847c1-c788-404d-ae6f-c45b4c8463a4",
+  "Version": "3.10.0.0",
+  "Name": "login",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "ClipAble": false,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "qietu/main2/bg01.jpg",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {},
+            "EndColor": {
+              "R": 150,
+              "G": 200
+            },
+            "ColorVector": {
+              "ScaleX": 0.0,
+              "ScaleY": -1.0
+            },
+            "Scale9Width": 1080,
+            "Scale9Height": 1920,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 28842,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/tymb/nrBar01.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 40,
+                "Scale9OriginY": 15,
+                "Scale9Width": 370,
+                "Scale9Height": 80,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 90.0,
+                  "Y": 1120.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0833,
+                  "Y": 0.5833
+                },
+                "PreSize": {
+                  "X": 0.5556,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 90.0,
+                "RightMargin": 390.0,
+                "TopMargin": 760.0,
+                "BottomMargin": 1080.0,
+                "Tag": 28862,
+                "ActionTag": 11162792,
+                "Size": {
+                  "X": 600.0,
+                  "Y": 80.0
+                },
+                "Name": "input_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/tymb/nrBar01.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 40,
+                "Scale9OriginY": 15,
+                "Scale9Width": 370,
+                "Scale9Height": 80,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 90.0,
+                  "Y": 980.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0833,
+                  "Y": 0.5104
+                },
+                "PreSize": {
+                  "X": 0.5556,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 90.0,
+                "RightMargin": 390.0,
+                "TopMargin": 900.0,
+                "BottomMargin": 940.0,
+                "Tag": 28864,
+                "ActionTag": 37589734,
+                "Size": {
+                  "X": 600.0,
+                  "Y": 80.0
+                },
+                "Name": "input_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {},
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/tymb/changBt02.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/tymb/changBt01.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 280,
+                "Scale9Height": 91,
+                "OutlineColor": {
+                  "A": 0,
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "A": 0,
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 870.0,
+                  "Y": 1120.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8056,
+                  "Y": 0.5833
+                },
+                "PreSize": {
+                  "X": 0.2593,
+                  "Y": 0.0474
+                },
+                "LeftMargin": 730.0,
+                "RightMargin": 70.0,
+                "TopMargin": 754.5,
+                "BottomMargin": 1074.5,
+                "Tag": 28849,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 40,
+                    "LabelText": "发送",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "A": 0,
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "G": 236,
+                      "B": 130
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 140.0,
+                      "Y": 45.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 103,
+                      "G": 45,
+                      "B": 25
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.4945
+                    },
+                    "PreSize": {
+                      "X": 0.7143,
+                      "Y": 0.4396
+                    },
+                    "LeftMargin": 40.0,
+                    "RightMargin": 40.0,
+                    "TopMargin": 26.0,
+                    "BottomMargin": 25.0,
+                    "Tag": 28850,
+                    "ActionTag": 37282509,
+                    "ZOrder": 1,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 40.0
+                    },
+                    "Name": "label",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 56266776,
+                "Size": {
+                  "X": 280.0,
+                  "Y": 91.0
+                },
+                "Name": "send",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {},
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/ksyxBt02.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/ksyxBt01.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 478,
+                "Scale9Height": 234,
+                "OutlineColor": {
+                  "A": 0,
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "A": 0,
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 540.0,
+                  "Y": 650.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3385
+                },
+                "PreSize": {
+                  "X": 0.4426,
+                  "Y": 0.1219
+                },
+                "LeftMargin": 301.0,
+                "RightMargin": 301.0,
+                "TopMargin": 1153.0,
+                "BottomMargin": 533.0,
+                "Tag": 28856,
+                "ActionTag": 66315398,
+                "Size": {
+                  "X": 478.0,
+                  "Y": 234.0
+                },
+                "Name": "confirm",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1,
+            "Size": {
+              "X": 1080.0,
+              "Y": 1920.0
+            },
+            "Name": "Panel_8",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1080.0,
+          "Y": 1920.0
+        },
+        "Name": "UiEntity44005273",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "qietu/main2/bg01.jpg",
+        "qietu/start/ksyxBt01.png",
+        "qietu/start/ksyxBt02.png",
+        "qietu/tymb/changBt01.png",
+        "qietu/tymb/changBt02.png",
+        "qietu/tymb/nrBar01.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

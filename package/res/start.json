@@ -1,0 +1,1084 @@
+{
+  "ID": "06f23861-8140-4c1d-97be-f07470ecf3a1",
+  "Version": "3.10.0.0",
+  "Name": "start",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {},
+            "EndColor": {
+              "R": 150,
+              "G": 200
+            },
+            "ColorVector": {
+              "ScaleY": -1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 1844,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/dlBg.jpg",
+                  "Plist": ""
+                },
+                "Scale9Width": 1080,
+                "Scale9Height": 1920,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 2.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.001
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "TopMargin": -2.0,
+                "BottomMargin": 2.0,
+                "Tag": 1845,
+                "ActionTag": 37314012,
+                "Size": {
+                  "X": 1080.0,
+                  "Y": 1920.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {},
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/ksyxBt02.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/ksyxBt01.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 478,
+                "Scale9Height": 234,
+                "OutlineColor": {
+                  "A": 0,
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "A": 0,
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 540.0,
+                  "Y": 652.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3396
+                },
+                "PreSize": {
+                  "X": 0.4426,
+                  "Y": 0.1219
+                },
+                "LeftMargin": 301.0,
+                "RightMargin": 301.0,
+                "TopMargin": 1151.0,
+                "BottomMargin": 535.0,
+                "Tag": 1850,
+                "ActionTag": 43431730,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 478.0,
+                  "Y": 234.0
+                },
+                "Name": "btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/xxTp.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 485,
+                "Scale9Height": 433,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 265.0,
+                  "Y": 1482.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2454,
+                  "Y": 0.7719
+                },
+                "PreSize": {
+                  "X": 0.4491,
+                  "Y": 0.2255
+                },
+                "LeftMargin": 22.5,
+                "RightMargin": 572.5,
+                "TopMargin": 221.5,
+                "BottomMargin": 1265.5,
+                "Tag": 1851,
+                "ActionTag": 46029968,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 485.0,
+                  "Y": 433.0
+                },
+                "Name": "hua_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FlipX": true,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/xxTp.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 485,
+                "Scale9Height": 433,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 850.0,
+                  "Y": 1483.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.787,
+                  "Y": 0.7724
+                },
+                "PreSize": {
+                  "X": 0.4491,
+                  "Y": 0.2255
+                },
+                "LeftMargin": 607.5,
+                "RightMargin": -12.5,
+                "TopMargin": 220.5,
+                "BottomMargin": 1266.5,
+                "Tag": 1853,
+                "ActionTag": 43381582,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 485.0,
+                  "Y": 433.0
+                },
+                "Name": "hua_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/paizi.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 991,
+                "Scale9Height": 631,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 540.0,
+                  "Y": 1292.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6729
+                },
+                "PreSize": {
+                  "X": 0.9176,
+                  "Y": 0.3286
+                },
+                "LeftMargin": 44.5,
+                "RightMargin": 44.5,
+                "TopMargin": 312.5,
+                "BottomMargin": 976.5,
+                "Tag": 1846,
+                "ActionTag": 62494428,
+                "ZOrder": 3,
+                "Size": {
+                  "X": 991.0,
+                  "Y": 631.0
+                },
+                "Name": "title",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/zuojin.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 385,
+                "Scale9Height": 292,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 230.0,
+                  "Y": 963.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.213,
+                  "Y": 0.5016
+                },
+                "PreSize": {
+                  "X": 0.3565,
+                  "Y": 0.1521
+                },
+                "LeftMargin": 37.5,
+                "RightMargin": 657.5,
+                "TopMargin": 811.0,
+                "BottomMargin": 817.0,
+                "Tag": 1849,
+                "ActionTag": 29768751,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 385.0,
+                  "Y": 292.0
+                },
+                "Name": "gold_l",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/youjin.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 382,
+                "Scale9Height": 284,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 855.0,
+                  "Y": 943.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7917,
+                  "Y": 0.4911
+                },
+                "PreSize": {
+                  "X": 0.3537,
+                  "Y": 0.1479
+                },
+                "LeftMargin": 664.0,
+                "RightMargin": 34.0,
+                "TopMargin": 835.0,
+                "BottomMargin": 801.0,
+                "Tag": 1847,
+                "ActionTag": 29406286,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 382.0,
+                  "Y": 284.0
+                },
+                "Name": "gold_r",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/xx.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 166,
+                "Scale9Height": 197,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 170.0,
+                  "Y": 893.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1574,
+                  "Y": 0.4651
+                },
+                "PreSize": {
+                  "X": 0.1537,
+                  "Y": 0.1026
+                },
+                "LeftMargin": 87.0,
+                "RightMargin": 827.0,
+                "TopMargin": 928.5,
+                "BottomMargin": 794.5,
+                "Tag": 1854,
+                "ActionTag": 52298869,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 197.0
+                },
+                "Name": "star_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/xx.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 166,
+                "Scale9Height": 197,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 75.0,
+                  "Y": 1033.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0694,
+                  "Y": 0.538
+                },
+                "PreSize": {
+                  "X": 0.1537,
+                  "Y": 0.1026
+                },
+                "LeftMargin": -8.0,
+                "RightMargin": 922.0,
+                "TopMargin": 788.5,
+                "BottomMargin": 934.5,
+                "Tag": 1856,
+                "ActionTag": 45940333,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 197.0
+                },
+                "Name": "star_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/xx.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 166,
+                "Scale9Height": 197,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 150.0,
+                  "Y": 1185.0
+                },
+                "Scale": {
+                  "ScaleX": 0.6,
+                  "ScaleY": 0.6
+                },
+                "RotationSkewX": 10.0,
+                "RotationSkewY": 10.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1389,
+                  "Y": 0.6172
+                },
+                "PreSize": {
+                  "X": 0.1537,
+                  "Y": 0.1026
+                },
+                "LeftMargin": 67.0,
+                "RightMargin": 847.0,
+                "TopMargin": 636.5,
+                "BottomMargin": 1086.5,
+                "Tag": 1857,
+                "ActionTag": 27449082,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 197.0
+                },
+                "Name": "star_3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/xx.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 166,
+                "Scale9Height": 197,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 28.0,
+                  "Y": 1309.0
+                },
+                "Scale": {
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
+                },
+                "RotationSkewX": 5.0,
+                "RotationSkewY": 5.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0259,
+                  "Y": 0.6818
+                },
+                "PreSize": {
+                  "X": 0.1537,
+                  "Y": 0.1026
+                },
+                "LeftMargin": -55.0,
+                "RightMargin": 969.0,
+                "TopMargin": 512.5,
+                "BottomMargin": 1210.5,
+                "Tag": 1858,
+                "ActionTag": 12063040,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 197.0
+                },
+                "Name": "star_4",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/xx.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 166,
+                "Scale9Height": 197,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 324.0,
+                  "Y": 1731.0
+                },
+                "Scale": {
+                  "ScaleX": 0.55,
+                  "ScaleY": 0.45
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3,
+                  "Y": 0.9016
+                },
+                "PreSize": {
+                  "X": 0.1537,
+                  "Y": 0.1026
+                },
+                "LeftMargin": 241.0,
+                "RightMargin": 673.0,
+                "TopMargin": 90.5,
+                "BottomMargin": 1632.5,
+                "Tag": 1859,
+                "ActionTag": 6542897,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 197.0
+                },
+                "Name": "star_5",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/xx.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 166,
+                "Scale9Height": 197,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 450.0,
+                  "Y": 1757.0
+                },
+                "Scale": {
+                  "ScaleX": 0.4,
+                  "ScaleY": 0.4
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4167,
+                  "Y": 0.9151
+                },
+                "PreSize": {
+                  "X": 0.1537,
+                  "Y": 0.1026
+                },
+                "LeftMargin": 367.0,
+                "RightMargin": 547.0,
+                "TopMargin": 64.5,
+                "BottomMargin": 1658.5,
+                "Tag": 1860,
+                "ActionTag": 59355949,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 197.0
+                },
+                "Name": "star_6",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/xx.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 166,
+                "Scale9Height": 197,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 659.0,
+                  "Y": 1757.0
+                },
+                "Scale": {
+                  "ScaleX": 0.4,
+                  "ScaleY": 0.4
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6102,
+                  "Y": 0.9151
+                },
+                "PreSize": {
+                  "X": 0.1537,
+                  "Y": 0.1026
+                },
+                "LeftMargin": 576.0,
+                "RightMargin": 338.0,
+                "TopMargin": 64.5,
+                "BottomMargin": 1658.5,
+                "Tag": 1861,
+                "ActionTag": 20940373,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 197.0
+                },
+                "Name": "star_7",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/xx.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 166,
+                "Scale9Height": 197,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 700.0,
+                  "Y": 1712.0
+                },
+                "Scale": {
+                  "ScaleX": 0.6,
+                  "ScaleY": 0.6
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6481,
+                  "Y": 0.8917
+                },
+                "PreSize": {
+                  "X": 0.1537,
+                  "Y": 0.1026
+                },
+                "LeftMargin": 617.0,
+                "RightMargin": 297.0,
+                "TopMargin": 109.5,
+                "BottomMargin": 1613.5,
+                "Tag": 1862,
+                "ActionTag": 63419795,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 197.0
+                },
+                "Name": "star_8",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/xx.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 166,
+                "Scale9Height": 197,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 995.0,
+                  "Y": 1587.0
+                },
+                "Scale": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9213,
+                  "Y": 0.8266
+                },
+                "PreSize": {
+                  "X": 0.1537,
+                  "Y": 0.1026
+                },
+                "LeftMargin": 912.0,
+                "RightMargin": 2.0,
+                "TopMargin": 234.5,
+                "BottomMargin": 1488.5,
+                "Tag": 1863,
+                "ActionTag": 3612215,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 197.0
+                },
+                "Name": "star_9",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/xx.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 166,
+                "Scale9Height": 197,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 780.0,
+                  "Y": 922.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7222,
+                  "Y": 0.4802
+                },
+                "PreSize": {
+                  "X": 0.1537,
+                  "Y": 0.1026
+                },
+                "LeftMargin": 697.0,
+                "RightMargin": 217.0,
+                "TopMargin": 899.5,
+                "BottomMargin": 823.5,
+                "Tag": 1865,
+                "ActionTag": 3521862,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 197.0
+                },
+                "Name": "star_10",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/xx.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 166,
+                "Scale9Height": 197,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 630.0,
+                  "Y": 832.0
+                },
+                "Scale": {
+                  "ScaleX": 0.4,
+                  "ScaleY": 0.4
+                },
+                "RotationSkewX": 12.0,
+                "RotationSkewY": 12.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5833,
+                  "Y": 0.4333
+                },
+                "PreSize": {
+                  "X": 0.1537,
+                  "Y": 0.1026
+                },
+                "LeftMargin": 547.0,
+                "RightMargin": 367.0,
+                "TopMargin": 989.5,
+                "BottomMargin": 733.5,
+                "Tag": 1867,
+                "ActionTag": 10818056,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 197.0
+                },
+                "Name": "star_11",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/xx.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 166,
+                "Scale9Height": 197,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 895.0,
+                  "Y": 777.0
+                },
+                "Scale": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "RotationSkewX": -20.0,
+                "RotationSkewY": -20.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8287,
+                  "Y": 0.4047
+                },
+                "PreSize": {
+                  "X": 0.1537,
+                  "Y": 0.1026
+                },
+                "LeftMargin": 812.0,
+                "RightMargin": 102.0,
+                "TopMargin": 1044.5,
+                "BottomMargin": 678.5,
+                "Tag": 1868,
+                "ActionTag": 9484357,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 197.0
+                },
+                "Name": "star_12",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/xx.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 166,
+                "Scale9Height": 197,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1015.0,
+                  "Y": 974.0
+                },
+                "Scale": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "RotationSkewX": 10.0,
+                "RotationSkewY": 10.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9398,
+                  "Y": 0.5073
+                },
+                "PreSize": {
+                  "X": 0.1537,
+                  "Y": 0.1026
+                },
+                "LeftMargin": 932.0,
+                "RightMargin": -18.0,
+                "TopMargin": 847.5,
+                "BottomMargin": 875.5,
+                "Tag": 1870,
+                "ActionTag": 55054980,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 197.0
+                },
+                "Name": "star_13",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/xx.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 166,
+                "Scale9Height": 197,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 967.0,
+                  "Y": 1026.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8954,
+                  "Y": 0.5344
+                },
+                "PreSize": {
+                  "X": 0.1537,
+                  "Y": 0.1026
+                },
+                "LeftMargin": 884.0,
+                "RightMargin": 30.0,
+                "TopMargin": 795.5,
+                "BottomMargin": 927.5,
+                "Tag": 1872,
+                "ActionTag": 6845755,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 197.0
+                },
+                "Name": "star_14",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/start/xx.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 166,
+                "Scale9Height": 197,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1033.0,
+                  "Y": 1138.0
+                },
+                "Scale": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9565,
+                  "Y": 0.5927
+                },
+                "PreSize": {
+                  "X": 0.1537,
+                  "Y": 0.1026
+                },
+                "LeftMargin": 950.0,
+                "RightMargin": -36.0,
+                "TopMargin": 683.5,
+                "BottomMargin": 1039.5,
+                "Tag": 1873,
+                "ActionTag": 52118596,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 197.0
+                },
+                "Name": "star_15",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1,
+            "Size": {
+              "X": 1080.0,
+              "Y": 1920.0
+            },
+            "Name": "Panel_43",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1080.0,
+          "Y": 1920.0
+        },
+        "Name": "UiEntity15299237",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "qietu/start/dlBg.jpg",
+        "qietu/start/ksyxBt01.png",
+        "qietu/start/ksyxBt02.png",
+        "qietu/start/paizi.png",
+        "qietu/start/xx.png",
+        "qietu/start/xxTp.png",
+        "qietu/start/youjin.png",
+        "qietu/start/zuojin.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

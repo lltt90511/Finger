@@ -1,0 +1,413 @@
+{
+  "ID": "740b6071-566e-4e30-af31-911ada6d6cb2",
+  "Version": "3.10.0.0",
+  "Name": "inviterAlert",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 150,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {},
+            "EndColor": {
+              "R": 150,
+              "G": 200
+            },
+            "ColorVector": {
+              "ScaleY": -1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 12420,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/mora/alert.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 1014,
+                "Scale9Height": 644,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 540.0,
+                  "Y": 960.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.9389,
+                  "Y": 0.3354
+                },
+                "LeftMargin": 33.0,
+                "RightMargin": 33.0,
+                "TopMargin": 638.0,
+                "BottomMargin": 638.0,
+                "Tag": 12433,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {},
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/tongyi.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/tongyi.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 255,
+                    "Scale9Height": 82,
+                    "OutlineColor": {
+                      "A": 0,
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "A": 0,
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 320.0,
+                      "Y": 202.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3156,
+                      "Y": 0.3137
+                    },
+                    "PreSize": {
+                      "X": 0.2515,
+                      "Y": 0.1273
+                    },
+                    "LeftMargin": 192.5,
+                    "RightMargin": 566.5,
+                    "TopMargin": 401.0,
+                    "BottomMargin": 161.0,
+                    "Tag": 12434,
+                    "ActionTag": 3972940,
+                    "Size": {
+                      "X": 255.0,
+                      "Y": 82.0
+                    },
+                    "Name": "tongyi",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {},
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/jujue.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/jujue.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 255,
+                    "Scale9Height": 82,
+                    "OutlineColor": {
+                      "A": 0,
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "A": 0,
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 680.0,
+                      "Y": 202.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6706,
+                      "Y": 0.3137
+                    },
+                    "PreSize": {
+                      "X": 0.2515,
+                      "Y": 0.1273
+                    },
+                    "LeftMargin": 552.5,
+                    "RightMargin": 206.5,
+                    "TopMargin": 401.0,
+                    "BottomMargin": 161.0,
+                    "Tag": 12437,
+                    "ActionTag": 4194840,
+                    "Size": {
+                      "X": 255.0,
+                      "Y": 82.0
+                    },
+                    "Name": "jujue",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 55,
+                    "LabelText": "玩家15868403696",
+                    "OutlineColor": {
+                      "A": 0,
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "A": 0,
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 519.9996,
+                      "Y": 492.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5128,
+                      "Y": 0.764
+                    },
+                    "PreSize": {
+                      "X": 0.4122,
+                      "Y": 0.0854
+                    },
+                    "LeftMargin": 310.9996,
+                    "RightMargin": 285.0004,
+                    "TopMargin": 124.4999,
+                    "BottomMargin": 464.5001,
+                    "Tag": 12580,
+                    "ActionTag": 29619832,
+                    "Size": {
+                      "X": 418.0,
+                      "Y": 55.0
+                    },
+                    "Name": "name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/yaoqingniwan.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 236,
+                    "Scale9Height": 59,
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 470.0004,
+                      "Y": 379.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4635,
+                      "Y": 0.5901
+                    },
+                    "PreSize": {
+                      "X": 0.2327,
+                      "Y": 0.0916
+                    },
+                    "LeftMargin": 234.0004,
+                    "RightMargin": 543.9996,
+                    "TopMargin": 234.5001,
+                    "BottomMargin": 350.4999,
+                    "Tag": 12582,
+                    "ActionTag": 18679396,
+                    "Size": {
+                      "X": 236.0,
+                      "Y": 59.0
+                    },
+                    "Name": "yaoqing",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 60,
+                    "LabelText": "石头剪子布",
+                    "OutlineColor": {
+                      "A": 0,
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "A": 0,
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 500.0008,
+                      "Y": 379.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 241,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4931,
+                      "Y": 0.5901
+                    },
+                    "PreSize": {
+                      "X": 0.2959,
+                      "Y": 0.0932
+                    },
+                    "LeftMargin": 500.0008,
+                    "RightMargin": 213.9993,
+                    "TopMargin": 234.0001,
+                    "BottomMargin": 349.9999,
+                    "Tag": 12544,
+                    "ActionTag": 17130067,
+                    "Size": {
+                      "X": 300.0,
+                      "Y": 60.0
+                    },
+                    "Name": "game",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 48619368,
+                "Size": {
+                  "X": 1014.0,
+                  "Y": 644.0
+                },
+                "Name": "alert",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1,
+            "Size": {
+              "X": 1080.0,
+              "Y": 1920.0
+            },
+            "Name": "Panel_27",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1080.0,
+          "Y": 1920.0
+        },
+        "Name": "UiEntity6250253",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "qietu/mora/alert.png",
+        "qietu/mora/jujue.png",
+        "qietu/mora/tongyi.png",
+        "qietu/mora/yaoqingniwan.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

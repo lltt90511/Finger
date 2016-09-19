@@ -1,0 +1,1087 @@
+{
+  "ID": "90960f38-e4e1-4991-953c-3a95abdf6b02",
+  "Version": "3.10.0.0",
+  "Name": "betAlert",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 150,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {},
+            "EndColor": {
+              "R": 150,
+              "G": 200
+            },
+            "ColorVector": {
+              "ScaleY": -1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 12457,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/mora/alert.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 1014,
+                "Scale9Height": 644,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 540.0,
+                  "Y": 960.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.9389,
+                  "Y": 0.3354
+                },
+                "LeftMargin": 33.0,
+                "RightMargin": 33.0,
+                "TopMargin": 638.0,
+                "BottomMargin": 638.0,
+                "Tag": 12467,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {},
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/queding.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/queding.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 255,
+                    "Scale9Height": 82,
+                    "OutlineColor": {
+                      "A": 0,
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "A": 0,
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 507.0,
+                      "Y": 202.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.3137
+                    },
+                    "PreSize": {
+                      "X": 0.2515,
+                      "Y": 0.1273
+                    },
+                    "LeftMargin": 379.5,
+                    "RightMargin": 379.5,
+                    "TopMargin": 401.0,
+                    "BottomMargin": 161.0,
+                    "Tag": 12471,
+                    "ActionTag": 30177174,
+                    "Size": {
+                      "X": 255.0,
+                      "Y": 82.0
+                    },
+                    "Name": "btn",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "ClipAble": true,
+                    "BackColorAlpha": 100,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {},
+                    "EndColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "ColorVector": {
+                      "ScaleY": -1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 432.0,
+                      "Y": 82.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.426,
+                      "Y": 0.1273
+                    },
+                    "PreSize": {
+                      "X": 0.2959,
+                      "Y": 0.4658
+                    },
+                    "LeftMargin": 432.0,
+                    "RightMargin": 282.0,
+                    "TopMargin": 262.0,
+                    "BottomMargin": 82.0,
+                    "Tag": 12491,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 180,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "FirstColor": {},
+                        "EndColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "ColorVector": {
+                          "ScaleY": -1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 300.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 1.0
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "TopMargin": -300.0,
+                        "BottomMargin": 300.0,
+                        "Tag": 12603,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "qietu/mora/xiala.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 300,
+                            "Scale9Height": 57,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 0.19
+                            },
+                            "TopMargin": 243.0,
+                            "Tag": 12502,
+                            "Children": [
+                              {
+                                "FontSize": 60,
+                                "LabelText": "1000",
+                                "OutlineColor": {
+                                  "A": 0,
+                                  "R": 0,
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "ShadowColor": {
+                                  "A": 0,
+                                  "R": 0,
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "ShadowOffsetX": 2.0,
+                                "ShadowOffsetY": -2.0,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 150.0,
+                                  "Y": 28.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 0.5,
+                                  "Y": 0.4912
+                                },
+                                "PreSize": {
+                                  "X": 0.4,
+                                  "Y": 1.0526
+                                },
+                                "LeftMargin": 90.0,
+                                "RightMargin": 90.0,
+                                "TopMargin": -1.0,
+                                "BottomMargin": -2.0,
+                                "Tag": 12511,
+                                "ActionTag": 32408458,
+                                "Size": {
+                                  "X": 120.0,
+                                  "Y": 60.0
+                                },
+                                "Name": "num",
+                                "ctype": "TextObjectData"
+                              }
+                            ],
+                            "ActionTag": 28348820,
+                            "Size": {
+                              "X": 300.0,
+                              "Y": 57.0
+                            },
+                            "Name": "xiala_1",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "qietu/mora/xiala.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 300,
+                            "Scale9Height": 57,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 60.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.2
+                            },
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 0.19
+                            },
+                            "TopMargin": 183.0,
+                            "BottomMargin": 60.0,
+                            "Tag": 12593,
+                            "Children": [
+                              {
+                                "FontSize": 60,
+                                "LabelText": "10000",
+                                "OutlineColor": {
+                                  "A": 0,
+                                  "R": 0,
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "ShadowColor": {
+                                  "A": 0,
+                                  "R": 0,
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "ShadowOffsetX": 2.0,
+                                "ShadowOffsetY": -2.0,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 150.0,
+                                  "Y": 28.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 0.5,
+                                  "Y": 0.4912
+                                },
+                                "PreSize": {
+                                  "X": 0.5,
+                                  "Y": 1.0526
+                                },
+                                "LeftMargin": 75.0,
+                                "RightMargin": 75.0,
+                                "TopMargin": -1.0,
+                                "BottomMargin": -2.0,
+                                "Tag": 12594,
+                                "ActionTag": 75442,
+                                "Size": {
+                                  "X": 150.0,
+                                  "Y": 60.0
+                                },
+                                "Name": "num",
+                                "ctype": "TextObjectData"
+                              }
+                            ],
+                            "ActionTag": 29834544,
+                            "Size": {
+                              "X": 300.0,
+                              "Y": 57.0
+                            },
+                            "Name": "xiala_2",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "qietu/mora/xiala.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 300,
+                            "Scale9Height": 57,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 120.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.4
+                            },
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 0.19
+                            },
+                            "TopMargin": 123.0,
+                            "BottomMargin": 120.0,
+                            "Tag": 12595,
+                            "Children": [
+                              {
+                                "FontSize": 60,
+                                "LabelText": "100000",
+                                "OutlineColor": {
+                                  "A": 0,
+                                  "R": 0,
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "ShadowColor": {
+                                  "A": 0,
+                                  "R": 0,
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "ShadowOffsetX": 2.0,
+                                "ShadowOffsetY": -2.0,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 150.0,
+                                  "Y": 28.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 0.5,
+                                  "Y": 0.4912
+                                },
+                                "PreSize": {
+                                  "X": 0.6,
+                                  "Y": 1.0526
+                                },
+                                "LeftMargin": 60.0,
+                                "RightMargin": 60.0,
+                                "TopMargin": -1.0,
+                                "BottomMargin": -2.0,
+                                "Tag": 12596,
+                                "ActionTag": 63440798,
+                                "Size": {
+                                  "X": 180.0,
+                                  "Y": 60.0
+                                },
+                                "Name": "num",
+                                "ctype": "TextObjectData"
+                              }
+                            ],
+                            "ActionTag": 34359126,
+                            "Size": {
+                              "X": 300.0,
+                              "Y": 57.0
+                            },
+                            "Name": "xiala_3",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "qietu/mora/xiala.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 300,
+                            "Scale9Height": 57,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 180.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.6
+                            },
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 0.19
+                            },
+                            "TopMargin": 63.0,
+                            "BottomMargin": 180.0,
+                            "Tag": 12597,
+                            "Children": [
+                              {
+                                "FontSize": 60,
+                                "LabelText": "1000000",
+                                "OutlineColor": {
+                                  "A": 0,
+                                  "R": 0,
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "ShadowColor": {
+                                  "A": 0,
+                                  "R": 0,
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "ShadowOffsetX": 2.0,
+                                "ShadowOffsetY": -2.0,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 150.0,
+                                  "Y": 28.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 0.5,
+                                  "Y": 0.4912
+                                },
+                                "PreSize": {
+                                  "X": 0.7,
+                                  "Y": 1.0526
+                                },
+                                "LeftMargin": 45.0,
+                                "RightMargin": 45.0,
+                                "TopMargin": -1.0,
+                                "BottomMargin": -2.0,
+                                "Tag": 12598,
+                                "ActionTag": 50170027,
+                                "Size": {
+                                  "X": 210.0,
+                                  "Y": 60.0
+                                },
+                                "Name": "num",
+                                "ctype": "TextObjectData"
+                              }
+                            ],
+                            "ActionTag": 5574447,
+                            "Size": {
+                              "X": 300.0,
+                              "Y": 57.0
+                            },
+                            "Name": "xiala_4",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "qietu/mora/xiala.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 300,
+                            "Scale9Height": 57,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 240.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.8
+                            },
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 0.19
+                            },
+                            "TopMargin": 3.0,
+                            "BottomMargin": 240.0,
+                            "Tag": 12601,
+                            "Children": [
+                              {
+                                "FontSize": 60,
+                                "LabelText": "2000000",
+                                "OutlineColor": {
+                                  "A": 0,
+                                  "R": 0,
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "ShadowColor": {
+                                  "A": 0,
+                                  "R": 0,
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "ShadowOffsetX": 2.0,
+                                "ShadowOffsetY": -2.0,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 150.0,
+                                  "Y": 28.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 0.5,
+                                  "Y": 0.4912
+                                },
+                                "PreSize": {
+                                  "X": 0.7,
+                                  "Y": 1.0526
+                                },
+                                "LeftMargin": 45.0,
+                                "RightMargin": 45.0,
+                                "TopMargin": -1.0,
+                                "BottomMargin": -2.0,
+                                "Tag": 12602,
+                                "ActionTag": 27602244,
+                                "Size": {
+                                  "X": 210.0,
+                                  "Y": 60.0
+                                },
+                                "Name": "num",
+                                "ctype": "TextObjectData"
+                              }
+                            ],
+                            "ActionTag": 10523456,
+                            "Size": {
+                              "X": 300.0,
+                              "Y": 57.0
+                            },
+                            "Name": "xiala_5",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": 58821131,
+                        "Size": {
+                          "X": 300.0,
+                          "Y": 300.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "bg",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": 63561596,
+                    "Size": {
+                      "X": 300.0,
+                      "Y": 300.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "list_layout",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/shuru.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 310,
+                    "Scale9Height": 69,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 428.0,
+                      "Y": 382.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4221,
+                      "Y": 0.5932
+                    },
+                    "PreSize": {
+                      "X": 0.3057,
+                      "Y": 0.1071
+                    },
+                    "LeftMargin": 428.0,
+                    "RightMargin": 276.0,
+                    "TopMargin": 193.0,
+                    "BottomMargin": 382.0,
+                    "Tag": 12500,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {},
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/xialaanniu.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/mora/xialaanniu.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 47,
+                        "Scale9Height": 60,
+                        "OutlineColor": {
+                          "A": 0,
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "A": 0,
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 285.0,
+                          "Y": 34.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.9194,
+                          "Y": 0.4928
+                        },
+                        "PreSize": {
+                          "X": 0.1516,
+                          "Y": 0.8696
+                        },
+                        "LeftMargin": 261.5,
+                        "RightMargin": 1.5,
+                        "TopMargin": 5.0,
+                        "BottomMargin": 4.0,
+                        "Tag": 12501,
+                        "ActionTag": 62623220,
+                        "Size": {
+                          "X": 47.0,
+                          "Y": 60.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "triangle",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 14287171,
+                    "ZOrder": 1,
+                    "Size": {
+                      "X": 310.0,
+                      "Y": 69.0
+                    },
+                    "Name": "cost",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/mora/yazhu_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 132,
+                    "Scale9Height": 63,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 258.0,
+                      "Y": 421.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2544,
+                      "Y": 0.6537
+                    },
+                    "PreSize": {
+                      "X": 0.1302,
+                      "Y": 0.0978
+                    },
+                    "LeftMargin": 192.0,
+                    "RightMargin": 690.0,
+                    "TopMargin": 191.5,
+                    "BottomMargin": 389.5,
+                    "Tag": 12507,
+                    "ActionTag": 579420,
+                    "Size": {
+                      "X": 132.0,
+                      "Y": 63.0
+                    },
+                    "Name": "title",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {},
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/tymb/guanbiBt02.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/tymb/guanbiBt01.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 132,
+                    "Scale9Height": 132,
+                    "OutlineColor": {
+                      "A": 0,
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "A": 0,
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 947.0,
+                      "Y": 587.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9339,
+                      "Y": 0.9115
+                    },
+                    "PreSize": {
+                      "X": 0.1302,
+                      "Y": 0.205
+                    },
+                    "LeftMargin": 881.0,
+                    "RightMargin": 1.0,
+                    "TopMargin": -9.0,
+                    "BottomMargin": 521.0,
+                    "Tag": 12547,
+                    "ActionTag": 37557944,
+                    "Size": {
+                      "X": 132.0,
+                      "Y": 132.0
+                    },
+                    "Name": "back",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 100,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {},
+                    "EndColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "ColorVector": {
+                      "ScaleY": -1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 432.0,
+                      "Y": 385.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.426,
+                      "Y": 0.5978
+                    },
+                    "PreSize": {
+                      "X": 0.2367,
+                      "Y": 0.3106
+                    },
+                    "LeftMargin": 432.0,
+                    "RightMargin": 342.0,
+                    "TopMargin": 59.0,
+                    "BottomMargin": 385.0,
+                    "Tag": 13398,
+                    "ActionTag": 10018962,
+                    "Size": {
+                      "X": 240.0,
+                      "Y": 200.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "cost_touch",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 100,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {},
+                    "EndColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "ColorVector": {
+                      "ScaleY": -1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 677.0,
+                      "Y": 385.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6677,
+                      "Y": 0.5978
+                    },
+                    "PreSize": {
+                      "X": 0.1972,
+                      "Y": 0.3106
+                    },
+                    "LeftMargin": 677.0,
+                    "RightMargin": 137.0,
+                    "TopMargin": 59.0,
+                    "BottomMargin": 385.0,
+                    "Tag": 13400,
+                    "ActionTag": 1264941,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 200.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "triangle_touch",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 55115319,
+                "Size": {
+                  "X": 1014.0,
+                  "Y": 644.0
+                },
+                "Name": "alert",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1,
+            "Size": {
+              "X": 1080.0,
+              "Y": 1920.0
+            },
+            "Name": "Panel_37",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1080.0,
+          "Y": 1920.0
+        },
+        "Name": "UiEntity61804813",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "qietu/mora/alert.png",
+        "qietu/mora/queding.png",
+        "qietu/mora/shuru.png",
+        "qietu/mora/xiala.png",
+        "qietu/mora/xialaanniu.png",
+        "qietu/mora/yazhu_2.png",
+        "qietu/tymb/guanbiBt01.png",
+        "qietu/tymb/guanbiBt02.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

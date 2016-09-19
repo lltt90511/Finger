@@ -1,0 +1,76 @@
+<Solution>
+  <PropertyGroup Name="finger" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="qietu">
+          <Folder Name="main2">
+            <Image Name="bg01.jpg" />
+            <Image Name="default.jpg" />
+          </Folder>
+          <Folder Name="mora">
+            <Image Name="alert.png" />
+            <Image Name="bg.png" />
+            <Image Name="bu_1.png" />
+            <Image Name="bu_2.png" />
+            <Image Name="di.png" />
+            <Image Name="di_1.png" />
+            <Image Name="di_2.png" />
+            <Image Name="jiandao_1.png" />
+            <Image Name="jiandao_2.png" />
+            <Image Name="jinbi.png" />
+            <Image Name="jujue.png" />
+            <Image Name="num_1.png" />
+            <Image Name="pingju.png" />
+            <Image Name="queding.png" />
+            <Image Name="quxiao.png" />
+            <Image Name="shengli.png" />
+            <Image Name="shibai.png" />
+            <Image Name="shitou_1.png" />
+            <Image Name="shitou_2.png" />
+            <Image Name="shuru.png" />
+            <Image Name="tongyi.png" />
+            <Image Name="touxiang_1.png" />
+            <Image Name="touxiang_2.png" />
+            <Image Name="wenhao.png" />
+            <Image Name="xiala.png" />
+            <Image Name="xialaanniu.png" />
+            <Image Name="yaoqing.png" />
+            <Image Name="yaoqingniwan.png" />
+            <Image Name="yaoqingzhong.png" />
+            <Image Name="yazhu_1.png" />
+            <Image Name="yazhu_2.png" />
+            <Image Name="yazhuanniu.png" />
+          </Folder>
+          <Folder Name="start">
+            <Image Name="ksyxBt01.png" />
+            <Image Name="ksyxBt02.png" />
+          </Folder>
+          <Folder Name="top">
+            <Image Name="close1.png" />
+            <Image Name="close2.png" />
+            <Image Name="head.png" />
+            <Image Name="name_bg.png" />
+            <Image Name="top_bg.png" />
+          </Folder>
+          <Folder Name="tymb">
+            <Image Name="changBt01.png" />
+            <Image Name="changBt02.png" />
+            <Image Name="goldIcon.png" />
+            <Image Name="guanbiBt01.png" />
+            <Image Name="guanbiBt02.png" />
+            <Image Name="nrBar01.png" />
+          </Folder>
+        </Folder>
+        <Project Name="alert.csd" Type="Layer" />
+        <Project Name="betAlert.csd" Type="Layer" />
+        <Project Name="common_top.csd" Type="Layer" />
+        <Project Name="inviterAlert.csd" Type="Layer" />
+        <Project Name="login.csd" Type="Layer" />
+        <Project Name="moraGame.csd" Type="Layer" />
+        <Image Name="num01.png" />
+        <Project Name="waitInviterAlert.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

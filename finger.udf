@@ -1,0 +1,41 @@
+<UserData Version="3.10.0.0">
+  <Properties>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="False" />
+        <LastRunType Value="Windows" />
+      </Value>
+    </Item>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.finger" />
+        <AndroidkeyStore Value="C:\Users\Administrator\Desktop\finger\publish\finger.keystore" />
+        <AndroidVersion Value="android-22" />
+        <iOS_Target Value="underSea-mobile" />
+        <iOS_BundleID Value="" />
+        <Platform Value="Android" />
+        <RunPlatform Value="Windows" />
+        <FrameworkVersion Value="cocos2d-x-3.10" />
+        <IsDebugKeystore Value="False" />
+        <KeystorePassword Value="123456" />
+        <KeystoreAliasName Value="finger_key" />
+        <KeystoreAliasPassword Value="123456" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="common_top.csd" />
+          <FilePathData Path="moraGame.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="moraGame.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

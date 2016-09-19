@@ -1,0 +1,582 @@
+{
+  "ID": "e075b3c1-a8e0-4fdd-ac3e-e8c3f4cacc9b",
+  "Version": "3.10.0.0",
+  "Name": "common_top",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {},
+            "EndColor": {
+              "R": 150,
+              "G": 200
+            },
+            "ColorVector": {
+              "ScaleY": -1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.0885
+            },
+            "TopMargin": 1750.0,
+            "Tag": 487,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qietu/top/top_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 1081,
+                "Scale9Height": 170,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 170.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 1.0
+                },
+                "PreSize": {
+                  "X": 1.0009,
+                  "Y": 1.0
+                },
+                "RightMargin": -1.0,
+                "Tag": 15003,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/top/head.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 148,
+                    "Scale9Height": 148,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 10.0,
+                      "Y": 85.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0093,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1369,
+                      "Y": 0.8706
+                    },
+                    "LeftMargin": 10.0,
+                    "RightMargin": 923.0,
+                    "TopMargin": 11.0,
+                    "BottomMargin": 11.0,
+                    "Tag": 15004,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qietu/main2/default.jpg",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 200,
+                        "Scale9Height": 200,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 74.0,
+                          "Y": 74.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8649,
+                          "Y": 0.8649
+                        },
+                        "LeftMargin": 10.0,
+                        "RightMargin": 10.0,
+                        "TopMargin": 10.0,
+                        "BottomMargin": 10.0,
+                        "Tag": 15005,
+                        "ActionTag": 28201437,
+                        "Size": {
+                          "X": 128.0,
+                          "Y": 128.0
+                        },
+                        "Name": "icon",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 18046573,
+                    "Size": {
+                      "X": 148.0,
+                      "Y": 148.0
+                    },
+                    "Name": "head",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/top/name_bg.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 379,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 170.0,
+                      "Y": 125.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1573,
+                      "Y": 0.7353
+                    },
+                    "PreSize": {
+                      "X": 0.3506,
+                      "Y": 0.3294
+                    },
+                    "LeftMargin": 170.0,
+                    "RightMargin": 532.0,
+                    "TopMargin": 17.0,
+                    "BottomMargin": 97.0,
+                    "Tag": 15006,
+                    "Children": [
+                      {
+                        "FontSize": 30,
+                        "LabelText": "用户名称7个0",
+                        "OutlineColor": {
+                          "A": 0,
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "A": 0,
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 20.0,
+                          "Y": 28.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0528,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.4749,
+                          "Y": 0.5357
+                        },
+                        "LeftMargin": 20.0,
+                        "RightMargin": 179.0,
+                        "TopMargin": 13.0,
+                        "BottomMargin": 13.0,
+                        "Tag": 15007,
+                        "ActionTag": 2615035,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 30.0
+                        },
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 52486342,
+                    "Size": {
+                      "X": 379.0,
+                      "Y": 56.0
+                    },
+                    "Name": "name_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/top/name_bg.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 190,
+                    "Scale9OriginY": 27,
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 170.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1573,
+                      "Y": 0.2941
+                    },
+                    "PreSize": {
+                      "X": 0.296,
+                      "Y": 0.3294
+                    },
+                    "LeftMargin": 170.0,
+                    "RightMargin": 591.0,
+                    "TopMargin": 92.0,
+                    "BottomMargin": 22.0,
+                    "Tag": 15011,
+                    "Children": [
+                      {
+                        "FontSize": 30,
+                        "LabelText": "金豆:99999999",
+                        "OutlineColor": {
+                          "A": 0,
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "A": 0,
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 20.0,
+                          "Y": 28.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 254,
+                          "G": 177,
+                          "B": 23
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0625,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.6094,
+                          "Y": 0.5357
+                        },
+                        "LeftMargin": 20.0,
+                        "RightMargin": 105.0,
+                        "TopMargin": 13.0,
+                        "BottomMargin": 13.0,
+                        "Tag": 28873,
+                        "ActionTag": 53056665,
+                        "Size": {
+                          "X": 195.0,
+                          "Y": 30.0
+                        },
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 46502279,
+                    "Size": {
+                      "X": 320.0,
+                      "Y": 56.0
+                    },
+                    "Name": "jindou_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/top/name_bg.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 190,
+                    "Scale9OriginY": 27,
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 500.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4625,
+                      "Y": 0.2941
+                    },
+                    "PreSize": {
+                      "X": 0.296,
+                      "Y": 0.3294
+                    },
+                    "LeftMargin": 500.0,
+                    "RightMargin": 261.0,
+                    "TopMargin": 92.0,
+                    "BottomMargin": 22.0,
+                    "Tag": 28876,
+                    "Children": [
+                      {
+                        "FontSize": 30,
+                        "LabelText": "银豆:99999999",
+                        "OutlineColor": {
+                          "A": 0,
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "A": 0,
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 20.0,
+                          "Y": 28.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 254,
+                          "G": 177,
+                          "B": 23
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0625,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.6094,
+                          "Y": 0.5357
+                        },
+                        "LeftMargin": 20.0,
+                        "RightMargin": 105.0,
+                        "TopMargin": 13.0,
+                        "BottomMargin": 13.0,
+                        "Tag": 28877,
+                        "ActionTag": 10993092,
+                        "Size": {
+                          "X": 195.0,
+                          "Y": 30.0
+                        },
+                        "Name": "text",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1221454,
+                    "Size": {
+                      "X": 320.0,
+                      "Y": 56.0
+                    },
+                    "Name": "yindou_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {},
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/top/close2.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qietu/top/close1.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 98,
+                    "Scale9Height": 99,
+                    "OutlineColor": {
+                      "A": 0,
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "A": 0,
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1020.0,
+                      "Y": 85.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9436,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0907,
+                      "Y": 0.5824
+                    },
+                    "LeftMargin": 922.0,
+                    "RightMargin": 61.0,
+                    "TopMargin": 35.5,
+                    "BottomMargin": 35.5,
+                    "Tag": 15019,
+                    "ActionTag": 24562016,
+                    "Size": {
+                      "X": 98.0,
+                      "Y": 99.0
+                    },
+                    "Name": "close",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 55232782,
+                "Size": {
+                  "X": 1081.0,
+                  "Y": 170.0
+                },
+                "Name": "top",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1,
+            "Size": {
+              "X": 1080.0,
+              "Y": 170.0
+            },
+            "Name": "Panel_152",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1080.0,
+          "Y": 1920.0
+        },
+        "Name": "UiEntity9196329",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "qietu/main2/default.jpg",
+        "qietu/top/close1.png",
+        "qietu/top/close2.png",
+        "qietu/top/head.png",
+        "qietu/top/name_bg.png",
+        "qietu/top/top_bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
